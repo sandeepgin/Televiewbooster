@@ -6,7 +6,7 @@ def multi_decode (OOOO00O00OOO0OO0O ,O000OOO000OOO0000 ):#line:7
         try :#line:10
             O0O00OO0OO00OOOO0 =base64 .b64decode (O0O00OO0OO00OOOO0 ).decode ('utf-8')#line:11
         except Exception as OOO0OO0O000O000OO :#line:12
-            print (f"CONTACT DEVELOPER: @vishwajithshaijukumar")#line:13
+            print (f"ig: @sandeepbiswalg")#line:13
             print (f"{OOO0OO0O000O000OO}")#line:14
             break #line:15
     return O0O00OO0OO00OOOO0 #line:16
@@ -15,4 +15,4 @@ try :#line:20
     exec (final_code )#line:21
 except Exception as e :#line:22
     print (f"Error during execution: {e}")#line:23
-    print (f"CONTACT DEVELOPER: @vishwajithshaijukumar")#line:24
+    print (f"web: imsandeepg.in")#line:24
